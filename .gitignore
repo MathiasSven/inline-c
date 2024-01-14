@@ -4,3 +4,7 @@ dist/
 *.cpp
 *.d
 *.tix
+
+dist-newstyle/
+.vscode/
+.direnv/
